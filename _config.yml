@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B0B0B8'
+    - '#7B660A'
+    - '#906060'
+    - '#F0D040'
+    - '#C0A870'
+  brandStrength: 0.8616077707485889
+  lightness: 0.11419292629972189
+  rhythmicContrast: 0.6692853313732149
+  saturation: 0.9788981638840176
+cta: {}
+layout_spectrum: 0.965517
+name: kanoacuisine
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.601881
